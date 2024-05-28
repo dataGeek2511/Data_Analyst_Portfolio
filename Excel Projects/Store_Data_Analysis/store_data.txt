@@ -1,1 +1,27 @@
+This is a small excel project to demonstrate the usage of excel , pivot charts and visualizations.
+
+The problem statemnet involves the understanding of the trends of the customer and growth of sales in 2023 by looking at the data sets of 2022.
+
+Some sample questions which can be answered would be :
+
+1. Which month had the highest sales and orders?
+2. Who purchased more in 2022 men or women?
+3. List top 10 states in contributing to the sales 
+4. Highest selling category.
+
+
+We will start by cleaning the data : which includes : removing duplicates, seeing if data is in right format or not, removing null values and so on. 
+
+We found inconsistencies with the gender column as we could see they were M, W, Men, Women and we will make it consistent by making all M and F as Men and Women.
+
+We found inconsistencies with the quanity as being one and two so we filtered and repalced them to 1 and 2 respectively to match the data set.
+
+Next step is data processing : To do calucations
+To find co relations between age and gender we will categorize the dataset into age groups as Senior, Adult and Teenager.
+We will also extract month from the delivery dates
+
+
+Now we can move to data analysis part where we will create a pivot table.
+ 
+
 
